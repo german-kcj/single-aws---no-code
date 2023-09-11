@@ -1,5 +1,6 @@
 {
     "name": "Single AWS - No Code",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
